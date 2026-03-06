@@ -84,7 +84,3 @@ La simulation montre:
 ## Auteur
 
 [Firas] - Étude numérique de dispersion de polluant
-
-## Licence
-
-Ce projet est sous licence MIT.
