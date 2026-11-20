@@ -1,0 +1,8 @@
+{
+ "nb_points": 2000,
+ "bruit": 0.1,
+ "poids_physique": 1.0,
+ "globale_exacte": 0.06296526376775193,
+ "globale_fd": 0.06531441276241909,
+ "duree_s": 75.19154572486877
+}
